@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1aeb5421-fb70-4be2-8f65-55669a5ec9d1" name="Default Changelist" comment="" />
+    <list default="true" id="1aeb5421-fb70-4be2-8f65-55669a5ec9d1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../오징어·낙지·문어.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../최종최종.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../최종최종.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="JupyterTrust" id="050b1832-fc45-4a99-bdac-c8550c2a4183" />
   <component name="ProjectId" id="1Zezr8F4ZQXNb4TMSI7K4gG09ib" />
@@ -30,6 +36,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585214544118</updated>
       <workItem from="1585214547445" duration="67000" />
+      <workItem from="1586234074733" duration="72000" />
     </task>
     <servers />
   </component>
